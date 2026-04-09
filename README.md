@@ -83,6 +83,7 @@ IAtools
   <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img height="45" src="https://img.icons8.com/fluency/96/artificial-intelligence.png">
 </p>
 
 ---
