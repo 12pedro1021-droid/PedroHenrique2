@@ -5,10 +5,15 @@
 
 ---
 
-## 👦 Sobre mim
-- 🎯 Focado em tecnologia e inteligência artificial  
-- 📚 Estudando programação e inglês  
-- 💡 Interesse em automação, desenvolvimento web e projetos digitais  
+## 👦Sobre mim
+- 🎯 Focado em tecnologia, inteligência artificial e desenvolvimento web  
+- 📚 Estudando programação e inglês para ampliar oportunidades no mercado global  
+- 💡 Interesse em automação, criação de sistemas e projetos digitais  
+- 🚀 Buscando evolução constante e desenvolvimento profissional na área tech  
+- 🧠 Perfil autodidata, sempre aprendendo novas ferramentas e tecnologias  
+- 🔍 Curioso por inovação e soluções digitais que geram impacto real  
+- 💼 Interesse em transformar conhecimento em projetos e oportunidades de renda  
+- 🌐 Explorando o universo da internet como meio de crescimento profissional    
 
 ---
 
@@ -18,40 +23,24 @@
 - 🏴󠁧󠁢󠁥󠁮󠁧🇺🇸 Inglês  
 
 ---
-
 ## 🛠️ Skills
 <p align="center">
-
-HTML  
-████░░░░░░░░░░ 30%  
-
-CSS  
-███░░░░░░░░░░░ 20%  
-
-Python  
-██████░░░░░░░░ 40%  
-
-IA / Ferramentas  
-████████░░░░░░ 60%  
-
+  <img src="https://img.shields.io/badge/HTML-30%25-1f1f1f?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-20%25-1f1f1f?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-40%25-1f1f1f?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%20Tools-60%25-1f1f1f?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
-
----
 
 ## 🧩 Projetos
 
 ### 🌐 Projeto de Site
-<p align="center">
-  <img src="https://via.placeholder.com/400x200.png?text=Projeto+de+Site" width="400px"/>
-</p>
+
 📌 Desenvolvimento de páginas web com foco em design moderno e responsivo  
 
 ---
 
 ### 🤖 Projeto com IA
-<p align="center">
-  <img src="https://via.placeholder.com/400x200.png?text=Projeto+IA" width="400px"/>
-</p>
+
 📌 Uso de ferramentas de inteligência artificial para automação e criação de conteúdo  
 
 ---
@@ -94,3 +83,4 @@ IA / Ferramentas
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b2b2b,100:0f0f0f&height=100&section=footer"/>
 </p>
+  
